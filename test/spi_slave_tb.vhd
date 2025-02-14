@@ -1,11 +1,3 @@
---------------------------------------------------------------------------------
--- PROJECT: SPI MASTER AND SLAVE FOR FPGA
---------------------------------------------------------------------------------
--- AUTHORS: Jakub Cabal <jakubcabal@gmail.com>
--- LICENSE: The MIT License, please read LICENSE file
--- WEBSITE: https://github.com/jakubcabal/spi-fpga
---------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;
